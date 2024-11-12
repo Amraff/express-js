@@ -1,4 +1,4 @@
-name: Pipeline with Unit Testing
+name: Pipeline with Unit Testing.
 
 on: 
   workflow_dispatch:
